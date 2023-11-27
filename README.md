@@ -4,7 +4,8 @@ The DRES location and capacity must be changed accordingly.
 The index of the switch in the pandapower list should be set to primary protection device index for a fault.
 
 # Case study I
-TODO
+To run the code, open "main_blinding_v5.py".
+Change the variable sn_mva in this file and "histogram.py" to obtain the histogram.
 
 
 # Case study II
