@@ -20,4 +20,6 @@ Same as case study II
 # Case study IV
 Same as case study II
 
-Note: Some rows may need to be dropped to obtain heatmaps with identical sizes.
+Note: 
+1) Due to random sampling, the resulting visualization may vary.
+2) Some rows in heatmap_paper_v3.py may need to be dropped to obtain heatmaps with identical sizes.
