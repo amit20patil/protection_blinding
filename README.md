@@ -20,6 +20,13 @@ Same as case study II
 # Case study IV
 Same as case study II
 
+# Case study V
+add values for r_fault_ohm and/or x_fault_ohm in function calc_sc() under "run_fault_scenario_sc()"
+
+# Case study VI
+Open run_fault_scenario_oc() -> open calc_sc()
+Change fault argument in cal_sc for different type of fault.
+
 Note: 
 1) Due to random sampling, the resulting visualization may vary.
 2) Some rows in heatmap_paper_v3.py may need to be dropped to obtain heatmaps with identical sizes.
